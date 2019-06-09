@@ -3,7 +3,7 @@ A responsive autoindex theme for nginx.
 
 ## Setup
 1. Ensure that you have [fancyindex](https://github.com/aperezdc/ngx-fancyindex) already installed.
-2. Place `.nginx` folder in the root of your domain.
+2. Place `.nginx` folder in the root of your domain (e.g. https://www.example.com/.nginx).
 3. Include `fancyindex.conf` in the nginx configuration.
 4. Enjoy 🎉!
 
