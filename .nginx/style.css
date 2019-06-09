@@ -119,4 +119,8 @@ footer {
 	#list td:nth-child(3) {
 		display: none;
 	}
+
+	footer {
+		padding: .8rem;
+	}
 }
