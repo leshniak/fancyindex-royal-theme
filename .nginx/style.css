@@ -48,7 +48,7 @@ footer {
 }
 
 #page {
-	overflow: hidden;
+  overflow: hidden;
 	background-color: #fff;
 	border-radius: .3rem;
 	box-shadow: 0px 0px .2rem #ccc;
@@ -121,6 +121,6 @@ footer {
 	}
 
 	footer {
-		padding: .8rem;
+		padding: 1rem .8rem;
 	}
 }

@@ -1,6 +1,7 @@
-{
+(() => {
+  const prefix = '/.nginx';
+
   async function addIcons() {
-    const prefix = '/.nginx';
     const iconMap = await fetch(`${prefix}/icons.json`).then(response => response.json());
     const defaultIcon = iconMap[''];
 
@@ -36,4 +37,4 @@
   document.addEventListener('DOMContentLoaded', () => {
     addIcons();
   });
-}
+})();
