@@ -25,11 +25,11 @@ a {
 }
 
 a:hover {
-	color: #000;
+	color: black;
 }
 
 h1 {
-	background-color: #2c579a;
+	background-color: #1c6094;
 	padding: 1.2rem;
 	color: white;
 	font-weight: normal;
@@ -48,7 +48,7 @@ footer {
 }
 
 #page {
-  overflow: hidden;
+	overflow: hidden;
 	background-color: #fff;
 	border-radius: .3rem;
 	box-shadow: 0px 0px .2rem #ccc;
