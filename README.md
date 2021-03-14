@@ -12,3 +12,6 @@ A responsive autoindex theme for nginx.
 
 ## Mobile view
 <img width="300" src="https://raw.githubusercontent.com/leshniak/fancyindex-royal-theme/master/assets/mobile.png">
+
+## Sponsorship
+If you appreciate my work, it will be cool to know that I drink my **[coffee ☕](https://www.buymeacoffee.com/leshniak)** thanks to you!
